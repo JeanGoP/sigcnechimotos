@@ -94,8 +94,8 @@ const Login = () => {
             {/* <b>Admin</b>
             <span>LTE</span> */}
             <b>SIGC</b>
-            <span> Montelibano</span>
-            <img style={{width:"300px"}} id="img_logomym" src="/logoinversionesmotosycarros.png" alt=""/>
+            <span> Nechimotos</span>
+            <img style={{width:"300px"}} id="img_logomym" src="/logo_empresa.png" alt=""/>
           </Link>
         </div>
         <div className="card-body">

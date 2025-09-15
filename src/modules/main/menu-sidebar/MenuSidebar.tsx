@@ -122,13 +122,13 @@ const MenuSidebar = () => {
     <aside className={`main-sidebar elevation-4 ${sidebarSkin}`} style={{position: 'fixed', height: '100vh'}}>
       <Link to="/" className="brand-link">
         <StyledBrandImage
-          src="\logoinversionesmotosycarros.png"
-          alt="AdminLTE Logo"
+          src="\logo_empresa.png"
+          alt="Logo"
           width={33}
           height={33}
           rounded
         />
-        <span className="brand-text font-weight-light">SIGC</span>
+        <span className="brand-text font-weight-light">Nechimotos</span>
       </Link>
       <div className="sidebar">
         <div className="user-panel mt-3 pb-3 mb-3 d-flex">
